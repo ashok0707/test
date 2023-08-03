@@ -10,3 +10,5 @@ pipeline {
                 sh 'docker run -d test:1.3'
             }
         }
+    }
+}
